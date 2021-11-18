@@ -5,10 +5,18 @@
 
 #hero{
     background-image: url(assets/backgrounds/hero.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center center;
+    background-attachment: fixed;
 }
 
 #about{
     background-image: url(assets/backgrounds/about.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center center;
+    background-attachment: fixed;
 }
 
 #customer{
