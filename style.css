@@ -1,7 +1,16 @@
+
+#container{
+    background-color: gray;
+}
+
 #hero{
     background-image: url(assets/backgrounds/hero.jpg);
 }
 
 #about{
     background-image: url(assets/backgrounds/about.jpg);
+}
+
+#customer{
+    background-color: pink;
 }
