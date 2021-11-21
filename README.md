@@ -1,2 +1,2 @@
-# Assignment-1
-first assessment test to join Moringa Core
+# YOLOMY
+A website displaying info about a clothing website
