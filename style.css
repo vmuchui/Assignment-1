@@ -25,9 +25,14 @@ a {
 
 #products {
     background-color: white;
+    font-size: 20px;
+    line-height: 20px;
+    font-family: Arial, Helvetica, sans-serif;
 }
 
-
+.products_text {
+    font-family: 'Rajdhani', sans-serif;
+}
 
 #about {
     background-image: url(assets/backgrounds/about.jpg);
@@ -36,6 +41,7 @@ a {
     background-position: center center;
     background-attachment: fixed;
     text-align: center;
+    font-family: 'Comforter Brush', cursive;
 }
 #aboutus_text {
     padding: 10px;
@@ -48,4 +54,8 @@ a {
     background-color: pink;
     height: 100px;
     font-size: 30px;
+    font-family: Arial, Helvetica, sans-serif;
+}
+#contact {
+    font-family: Arial, Helvetica, sans-serif;
 }
