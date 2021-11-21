@@ -1,17 +1,25 @@
 
-#container{
+#container {
     background-color: gray;
+    margin: 0;
 }
 
-#hero{
+a {
+    text-decoration: none;
+}
+#hero {
     background-image: url(assets/backgrounds/hero.jpg);
     background-repeat: no-repeat;
     background-size: cover;
     background-position: center center;
     background-attachment: fixed;
+    font-size: 30px;
+    text-align: center;
+    line-height: 60px;
 }
 
-#about{
+
+#about {
     background-image: url(assets/backgrounds/about.jpg);
     background-repeat: no-repeat;
     background-size: cover;
@@ -19,6 +27,6 @@
     background-attachment: fixed;
 }
 
-#customer{
+#customer {
     background-color: pink;
 }
