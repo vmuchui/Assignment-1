@@ -11,12 +11,19 @@ a {
     background-image: url(assets/backgrounds/hero.jpg);
     background-repeat: no-repeat;
     background-size: cover;
-    background-position: center center;
-    background-attachment: fixed;
     font-size: 30px;
     text-align: center;
     line-height: 60px;
+    height: 800px;
 }
+#mouse_click {
+    padding-top: 300px;
+}
+
+#products {
+    background-color: white;
+}
+
 
 
 #about {
@@ -25,8 +32,17 @@ a {
     background-size: cover;
     background-position: center center;
     background-attachment: fixed;
+    text-align: center;
+}
+#aboutus_text {
+    padding: 10px;
+    border:red;
+    border-width: 5px;
+    border-style: outset;
 }
 
 #customer {
     background-color: pink;
+    height: 100px;
+    font-size: 30px;
 }
