@@ -11,6 +11,8 @@ a {
     background-image: url(assets/backgrounds/hero.jpg);
     background-repeat: no-repeat;
     background-size: cover;
+    background-attachment: fixed;
+    background-position: center center;
     font-size: 30px;
     text-align: center;
     line-height: 60px;
@@ -37,7 +39,7 @@ a {
 #aboutus_text {
     padding: 10px;
     border:red;
-    border-width: 5px;
+    border-width: 3px;
     border-style: outset;
 }
 
